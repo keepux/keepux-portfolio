@@ -3,7 +3,6 @@
 .cache
 node_modules
 yarn-error.log
-public
 
 # macOS
 .DS_Store
