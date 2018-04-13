@@ -13,8 +13,8 @@
       "component---src-pages-logos-js-5a1a491c740f71b43ce9.js.map"
     ],
     "component---src-pages-visual-design-js": [
-      "component---src-pages-visual-design-js-8971778a9cc0ad74eeea.js",
-      "component---src-pages-visual-design-js-8971778a9cc0ad74eeea.js.map"
+      "component---src-pages-visual-design-js-bfe8f245c0c4ddb706b4.js",
+      "component---src-pages-visual-design-js-bfe8f245c0c4ddb706b4.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -25,8 +25,12 @@
       "path---visual-design-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-1086d48fabd93dae0b61.js",
-      "component---src-layouts-index-js-1086d48fabd93dae0b61.js.map"
+      "component---src-layouts-index-js-7b63b0b8f8ea69528d52.js",
+      "component---src-layouts-index-js-7b63b0b8f8ea69528d52.js.map"
+    ],
+    "component---src-pages-interaction-design-js": [
+      "component---src-pages-interaction-design-js-619ce3ed33f04ce95c18.js",
+      "component---src-pages-interaction-design-js-619ce3ed33f04ce95c18.js.map"
     ],
     "path---logos": [
       "path---logos-a0e39f21c11f6a62c5ab.js",
@@ -35,6 +39,14 @@
     "component---src-pages-illustrations-js": [
       "component---src-pages-illustrations-js-91e08f9114a5621667ee.js",
       "component---src-pages-illustrations-js-91e08f9114a5621667ee.js.map"
+    ],
+    "path---interaction-design": [
+      "path---interaction-design-a0e39f21c11f6a62c5ab.js",
+      "path---interaction-design-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-ux-studies-js": [
+      "component---src-pages-ux-studies-js-d811b6e8bb4ea51d1a56.js",
+      "component---src-pages-ux-studies-js-d811b6e8bb4ea51d1a56.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -52,10 +64,14 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---ux-studies": [
+      "path---ux-studies-a0e39f21c11f6a62c5ab.js",
+      "path---ux-studies-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "app": [
-      "app-4acec05e8bdd12c253f1.js",
+      "app-fc05317fe1079c0cdf26.js",
       "build-js-styles.css",
-      "app-4acec05e8bdd12c253f1.js.map",
+      "app-fc05317fe1079c0cdf26.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

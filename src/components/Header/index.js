@@ -161,9 +161,27 @@ const Header = () => {
 
                         <Link
                             to="/illustrations"
-                            className="block md:inline-block mt-4 md:mt-0 no-underline text-white"
+                            className="block md:inline-block mt-4 md:mt-0 mr-6 no-underline text-white"
                         >
                             Illustrations
+                        </Link>
+                        <Link
+                            to="/visual-design"
+                            className="block md:inline-block mt-4 md:mt-0 mr-6 no-underline text-white"
+                        >
+                            Visual Design
+                        </Link>
+                        <Link
+                            to="/interaction-design"
+                            className="block md:inline-block mt-4 md:mt-0 mr-6 no-underline text-white"
+                        >
+                            Interaction Design
+                        </Link>
+                        <Link
+                            to="/ux-studies"
+                            className="block md:inline-block mt-4 md:mt-0 no-underline text-white"
+                        >
+                            UX Studies
                         </Link>
                     </div>
                 </div>
