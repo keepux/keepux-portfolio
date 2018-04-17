@@ -1,2 +1,0 @@
-webpackJsonp([59260939553261],{203:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=u(2),r=n(a),c=u(46),l=(n(c),function(){return r.default.createElement("div",{className:"text-center"})});t.default=l,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-visual-design-js-3b550bfb7fceaad6e47e.js.map
