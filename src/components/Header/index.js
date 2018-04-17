@@ -13,8 +13,8 @@ const Header = () => {
     return (
         <nav className="bg-teal">
             <div className="flex flex-wrap items-center justify-between max-w-xl mx-auto p-4 md:p-8">
-                <Link
-                    to="/"
+                <a
+                    href="https://www.keepux.com/"
                     className="flex items-center no-underline text-white"
                 >
                     <svg
@@ -124,7 +124,7 @@ const Header = () => {
                             </g>
                         </g>
                     </svg>
-                </Link>
+                </a>
 
                 <button
                     className="block md:hidden border border-white flex items-center px-3 py-2 rounded text-white"
