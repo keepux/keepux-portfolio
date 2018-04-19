@@ -158,13 +158,6 @@ const Header = () => {
                         >
                             Logos
                         </Link>
-
-                        <Link
-                            to="/illustrations"
-                            className="block md:inline-block mt-4 md:mt-0 mr-6 no-underline text-white"
-                        >
-                            Illustrations
-                        </Link>
                         <Link
                             to="/mockup-design"
                             className="block md:inline-block mt-4 md:mt-0 mr-6 no-underline text-white"
@@ -178,16 +171,16 @@ const Header = () => {
                             Interaction Design
                         </Link>
                         <Link
-                            to="/ux-studies"
+                            to="/visual-design"
                             className="block md:inline-block mt-4 md:mt-0 mr-6 no-underline text-white"
                         >
-                            UX Studies
+                            Visual Design
                         </Link>
                         <Link
-                            to="/visual-design"
+                            to="/ux-studies"
                             className="block md:inline-block mt-4 md:mt-0 no-underline text-white"
                         >
-                            Visual Design
+                            UX Studies
                         </Link>
                     </div>
                 </div>
