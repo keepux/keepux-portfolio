@@ -35,12 +35,12 @@ const visualDesign = () => (
         </h2>
         <img src={visualDesignImageSix} className="block mx-auto w-4/5" />
         <br />
-        <h2
+        <button
             href="http://www.drivecleantexas.org"
             className="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2"
         >
             Visit Drive Clean Texas
-        </h2>
+        </button>
     </div>
 );
 
