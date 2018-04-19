@@ -11,6 +11,8 @@ const Header = () => (
                 >
                     keepUX
                 </a>
+                <a className="font-bold ml-6">Contakt</a>
+                <a className=""> keepuxer@gmail.com</a>
             </p>
             <p>
                 <a
