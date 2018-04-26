@@ -97,19 +97,20 @@ const visualDesign = () => (
             </h2>
         </div>
         <br />
-        <div className="shadow-md bg-white pt-6">
+        <div className="shadow-md bg-white pt-6 mb-6">
             <img src={visualDesignImageNine} className="block mx-auto w-4/5" />
             <h2 className="bg-yellow inline-block my-8 p-3">
                 Hi-Fi Experience Composite
             </h2>
         </div>
 
-        <button
-            href="http://www.drivecleantexas.org"
+        <a
+            href="http://www.drivecleantexas.org/road-trip"
             className="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white p-6 mt-6"
+            target="_blank"
         >
             Visit the Drive Clean Texas Website
-        </button>
+        </a>
     </div>
 );
 
