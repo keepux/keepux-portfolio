@@ -7,7 +7,7 @@ const IndexPage = () => (
         <div className="shadow-md bg-white pt-6">
             <img src={headingImage} className="block mx-auto w-2/3" />
             <h2 className="bg-yellow inline-block my-8 p-3">
-                UX is Quantitative and Qualatative
+                UX is Quantitative and Qualitative
             </h2>
             <p className="leading-loose p-4">
                 Lets step back and take a look at this statement from a shared
