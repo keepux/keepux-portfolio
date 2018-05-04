@@ -33,7 +33,7 @@ const IndexPage = () => (
                 may or may not be mostly guided by intuition, and how we might
                 improve, and/or guide, new design decisions to allow for an
                 improvement in the overall interaction. Remember, the set of
-                guidelines can exist in either qualatative, quantitative, or
+                guidelines can exist in either qualitative, quantitative, or
                 both states.
             </p>
             <br />
