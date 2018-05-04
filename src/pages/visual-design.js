@@ -22,7 +22,7 @@ const visualDesign = () => (
             </h2>
             <a className="inline-block my-3 pb-6 pl-8 pr-8">
                 This page is set to serve as the landing page. It is an
-                intivation for a colorful and interactive road trip across the
+                invitation for a colorful and interactive road trip across the
                 great state of Texas. The view should be able to choose their
                 vehicle and explore the various landmarks while also learning
                 how to properly drive clean.
@@ -37,7 +37,7 @@ const visualDesign = () => (
             <a className="inline-block my-3 pb-6 pl-8 pr-8">
                 The road trip should start with a few prep visits such as
                 visiting a fueling station where the user will be prompted for
-                input such as what time of day whould be best to fuel up.
+                input such as what time of day would be best to fuel up.
             </a>
         </div>
         <br />
@@ -51,7 +51,7 @@ const visualDesign = () => (
                 of the state of which the road trip is set to begin. A clear
                 path to follow is to be illustrated, where the road trip starts
                 and the progress along the way. Each destination city represents
-                a unique expereince along the road trip.
+                a unique experience along the road trip.
             </a>
         </div>
         <br />
