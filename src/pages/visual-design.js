@@ -74,6 +74,13 @@ const visualDesign = () => (
             <h2 className="bg-yellow inline-block my-8 p-3">
                 Mid-Fi Landing Composite
             </h2>
+            <a className="inline-block my-3 pb-6 pl-8 pr-8">
+                The mid-fidelity landing page should articulate specific
+                behavior and functionality that will provide navigation for the
+                user. This view should provide ample orientation upon visual
+                inspection that the user instinctually knows what actions to
+                take next.
+            </a>
         </div>
         <br />
         <div className="shadow-md bg-white pt-6">
@@ -81,6 +88,13 @@ const visualDesign = () => (
             <h2 className="bg-yellow inline-block my-8 p-3">
                 Mid-Fi Experience Composite
             </h2>
+            <a className="inline-block my-3 pb-6 pl-8 pr-8">
+                The mid-fidelity user experience composite will contain several
+                interactive components that may have a sequential presentation.
+                This composite is important to provide a wireframe for
+                animations and user interface interactions such as toggles and
+                buttons.
+            </a>
         </div>
         <br />
         <div className="shadow-md bg-white pt-6">
@@ -88,6 +102,13 @@ const visualDesign = () => (
             <h2 className="bg-yellow inline-block my-8 p-3">
                 Hi-Fi Landing Composite
             </h2>
+            <a className="inline-block my-3 pb-6 pl-8 pr-8">
+                The hi-fidelity landing composite will contain final output of
+                graphical objects, or layers, as they are to appear in the final
+                product. Furthermore, the landing composite should be inviting
+                and contain a balanced color scheme; typefaces are finalized and
+                an overall balanced aesthetic.
+            </a>
         </div>
         <br />
         <div className="shadow-md bg-white pt-6">
@@ -95,6 +116,15 @@ const visualDesign = () => (
             <h2 className="bg-yellow inline-block my-8 p-3">
                 Hi-Fi Journey Composite
             </h2>
+            <a className="inline-block my-3 pb-6 pl-8 pr-8">
+                This high-fidelity composite reflects the nature of how the user
+                interface can contain an alternative presentation to allow the
+                user to receive a visual queue that a special part of the
+                journey has been accomplished, (eg. A milestone). Interactive
+                objects such as buttons or toggles will be colorful and animated
+                appropriately to give sufficient notice to the user for the next
+                action on their part.
+            </a>
         </div>
         <br />
         <div className="shadow-md bg-white pt-6 mb-6">
@@ -102,6 +132,13 @@ const visualDesign = () => (
             <h2 className="bg-yellow inline-block my-8 p-3">
                 Hi-Fi Experience Composite
             </h2>
+            <a className="inline-block my-3 pb-6 pl-8 pr-8">
+                The hi-fidelity user experience composite contains all of the
+                interactive components with the sequential presentation layers
+                and the order of presentation for objects entering and exiting
+                the screen. This will include text, characters, narration,
+                buttons, toggles, animation, etc.
+            </a>
         </div>
 
         <a
